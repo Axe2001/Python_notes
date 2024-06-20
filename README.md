@@ -1,7 +1,7 @@
 # Python_notes
 Here I'll upload all python topics I have learned.
 
-<h1 align="center">Hi 👋, I  am Aakash Chaurasiar</h1>
+<h1 align="center">Hi 👋, I  am Aakash Chaurasia</h1>
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
