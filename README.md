@@ -21,19 +21,15 @@ Here I'll upload all python topics I have learned.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🌱 I’m currently learning *Data Science in Artificial Intellgience with Deep Learning NLP*
+- 🌱 I’m currently learning *Data Analysis*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👨‍💻 My Special Blogs at Medium Click Here :- [Medium.com](https://medium.com/@princekumar_95329)
+- 📫 How to reach me *aakashblogger2001@gmail.com*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📝 I Regularly Write articles on [Power BI Blog](https://mavenanalytics.io/project/6759)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📫 How to reach me *princekr301@gmail.com*
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-- ⚡ Fun fact ** My Hobbie is Playing Cricket and amy recent hobbie is codding ✨**
+- ⚡ Fun fact ** My Hobbie is working out and amy recent hobbie is codding ✨**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prince kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aakash-chaurasia-7060b6211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/princc301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="princc301" height="30" width="40" /></a>
 <a href="itsmeprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_itsmeprince_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/princekr301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="princekr301" height="30" width="40" /></a>
