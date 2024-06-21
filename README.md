@@ -5,7 +5,7 @@ Here I'll upload all python topics I have learned.
 <h3 align="center">Data Analyst | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fonline-courses%2Fwhat-is-data-analyst-dg439&psig=AOvVaw250X2P1HLHAx4cOCYRKmFC&ust=1719070630149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj4v6OD7YYDFQAAAAAdAAAAABAE" />
+ <img src="https://github.com/Axe2001/Axe2001/blob/main/Linkedin_Heading.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fonline-courses%2Fwhat-is-data-analyst-dg439&psig=AOvVaw250X2P1HLHAx4cOCYRKmFC&ust=1719070630149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj4v6OD7YYDFQAAAAAdAAAAABAE" />
 </h1>
 
 
