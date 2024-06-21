@@ -2,10 +2,10 @@
 Here I'll upload all python topics I have learned.
 
 <h1 align="center">Hi 👋, I  am Aakash Chaurasia</h1>
-<h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
+<h3 align="center">Data Analyst | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
+ <img src="[https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fonline-courses%2Fwhat-is-data-analyst-dg439&psig=AOvVaw250X2P1HLHAx4cOCYRKmFC&ust=1719070630149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj4v6OD7YYDFQAAAAAdAAAAABAE)" />
 </h1>
 
 
